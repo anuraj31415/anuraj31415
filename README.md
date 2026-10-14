@@ -11,4 +11,4 @@ I'm **anu** — a software developer intern learning by building.
 ## Links
 
 - [Personal site](https://anuraj31415.github.io)
-- [X (Twitter)](https://x.com/anuraj31515)
+- [X (Twitter)](https://x.com/anuraj31415)
